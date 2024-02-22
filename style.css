@@ -1,0 +1,23 @@
+#container{
+        border:1px solid;
+        width:50%;
+        margin:0 auto;
+        padding:24px;
+}
+.logo{
+        padding:12px 16px;
+        width: 50px;
+    }
+  button{
+        padding:4px;
+        background-color:blue;
+         width:50%;
+
+    }  
+.input{
+        padding:8px 12px;
+        border-radius:5px;
+        border:1px solid;
+    } 
+
+    
